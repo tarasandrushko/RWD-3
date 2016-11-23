@@ -50,28 +50,29 @@ table {
 }
 .blue {
     height: 100px;
-    width: 96%;
+    width: 94.9%;
     background: blue;
-    margin: 10px 2%;
+    margin: 10px 27px;
 }
 .green {
     height: 750px;
     width: 20%;
     background: green;
-    margin: 10px 0px 10px 2%;
+    margin: 10px 0px 10px 25px;
+
 }
 .red {
     height: 750px;
-    width: 64%;
+    width: 61%;
     background: red;
-    margin: 10px 0.7%;
+    margin: 10px 10px;
 }
 .orange {
     height: 750px;
-    width: 10%;
+    width: 11%;
     background: orange;
-    margin: 10px 2% 10px 0px;
-    float: right;
+    margin: 10px 0px 10px 10px;
+   
 }
 
 
@@ -83,19 +84,19 @@ table {
         height: 85px;
         width: 92%;
         background: blue;
-        margin: 10px 4%;
+        margin: 10px 27px;
     }
     .green {
         height: 85px;
         width: 92%;
         background: green;
-        margin: 0px 4% 5px 4%;
+        margin: 0px 28px 5px 26px;
     }
     .red {
         height: 440px;
         width: 92%;
         background: red;
-        margin: 0px 4% 10px 4%;
+        margin: 0px 28px 10px 25px;
     }
     .orange {
         display: none;
@@ -109,7 +110,7 @@ table {
         height: 120px;
         width: 92%;
         background: blue;
-        margin: 10px 4%;
+        margin: 10px 31px;
     }
     .red,
     .orange {
@@ -119,19 +120,19 @@ table {
         height: 120px;
         width: 92%;
         background: green;
-        margin: 10px 4%;
+        margin: 10px 31px;
     }
     .red {
         height: 450px;
         width: 57%;
         background: red;
-        margin: 10px 1.4% 10px 4%;
+        margin: 10px 0px 10px 30px;
     }
     .orange {
         height: 450px;
-        width: 32%;
+        width: 30%;
         background: orange;
-        margin: 10px 4% 10px 0;
+        margin: 10px 45px 10px 0px;
         float: right;
     }
 }
