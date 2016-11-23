@@ -124,15 +124,16 @@ table {
     }
     .red {
         height: 450px;
-        width: 57%;
+        width: 55%;
         background: red;
         margin: 10px 0px 10px 30px;
     }
     .orange {
         height: 450px;
-        width: 30%;
+        width: 35%;
         background: orange;
-        margin: 10px 45px 10px 0px;
-        float: right;
+        margin: 10px 0px 10px 10px;
+        
     }
 }
+
