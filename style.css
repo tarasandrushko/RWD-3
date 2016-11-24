@@ -56,35 +56,38 @@ table {
     height: 100px;
     width: 100%;
     background: blue;
+
     }
 .green,
 .red,
 .orange {
     display: inline-block;
+
 }
 .green {
     height: 750px;
     width: 20%;
     background: green;
-    margin: 10px 0px 10px 0px;
+    margin: 0px 0px 40px 0px;
+
 }
 .red {
     height: 750px;
     width: 60%;
     background: red;
-    margin: 10px 10px;
+    margin: 0px 10px 40px 10px;
 }
 .orange {
     height: 750px;
     width: 17.5%;
     background: orange;
-    margin: 10px 0px 0px 0px;
+    margin: 0px 0px 40px 0px;
     float: right;
 }
 
 /* For Phones */
 
-@media only screen and (min-width: 320px) and (max-width: 767px) {
+@media only screen and (min-width: 0px) and (max-width: 767px) {
     .blue {
         height: 85px;
         width: 92%;
@@ -125,10 +128,10 @@ table {
         background: green;
         margin: 10px 10px;
     }
-    .sm{
+    .sm {
         display: block;
-        width:92%;
-        margin:10px;
+        width: 92%;
+        margin: 10px;
     }
     .red {
         height: 450px;
@@ -147,4 +150,3 @@ table {
         display: none;
     }
 }
-
